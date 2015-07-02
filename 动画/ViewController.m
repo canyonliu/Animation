@@ -23,6 +23,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    NSLog(@"测试一下github本地使用");
+    
     
     _imageView = [[UIImageView alloc]init];
     //震荡和转动时的大小
